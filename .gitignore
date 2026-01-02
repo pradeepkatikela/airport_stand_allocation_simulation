@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+data/simulation_summary.csv
+data/raw_agent_logs.csv
+.DS_Store
